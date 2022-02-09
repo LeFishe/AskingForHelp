@@ -1,37 +1,64 @@
-## Welcome to GitHub Pages
+## Asking for help, a quick guide.
 
-You can use the [editor on GitHub](https://github.com/LeFishe/AskingForHelp/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+### Format
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The proper and encouraged format in my honest opinion is:
 
-### Markdown
+```
+Error from the Output or what happens when it runs.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+What you want to achieve.
 
-```markdown
-Syntax highlighted code block
+Any other info -- Optional
 
-# Header 1
-## Header 2
-### Header 3
+Input the code snippet here that causes the error.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+This way of formatting is not required however it is heavily encouraged and can help people to be able to help you faster and more efficiently.
 
-### Jekyll Themes
+### Formatting your Code
+Formatting your code is a simple way to be able to clean up your call for help.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LeFishe/AskingForHelp/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Of course it is different for every platform however I'm gonna be talking about the most commonly used one, Markdown.
 
-### Support or Contact
+Formatting code in Markdown is simple, simply add 3 ` at the start and the end and put your code inside that.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+```
+local Variable = 2
+
+print(Variable)
+```
+
+For more information visit [MarkdownGuide](https://www.markdownguide.org/basic-syntax/#code)
+### Tips for asking for help
+
+- Don't ask to ask, just ask
+  - I've seen so many people on Discord and other platforms ask to ask.
+  - This is heavily discouraged since it wastes time, and You're putting a responsibility on the person who responded yes to your question to ask.
+  - For more info I advise you to go to [DontAskToAsk](https://dontasktoask.com/)
+
+- Don't say hello
+  - I've seen so many users on Discord and other platforms say
+  ```
+    - Hello! Can you help me with my problem?
+    - Yeah.
+    - The problem is, ... blah blah blah
+  ```
+  This is inefficient and time wasting, since when a person responds they'll have to wait for you to type out your problem.
+
+  - Instead, you can do this:
+  ```
+    - Hello! I'm currently facing this problem in which .. blah blah blah
+    - You can do .. blah blah blah
+  ```
+  - This is much more efficient and better than then the last example.
+  - For more information visit [NoHello](https://nohello.net/)
+
+- Don't ask for full systems or scripts.
+  - Please for all that is good, DO NOT ask for full systems or scripts.
+  - This will both harm the person who helps and the person who asks.
+    - It'll harm the person who helps as they'll waste their time and effort to get (most of the time) no reward.
+    - It'll harm the person who asks as they will learn absolutely nothing.
+
+
