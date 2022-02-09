@@ -12,7 +12,6 @@ What you want to achieve.
 Any other info -- Optional
 
 Input the code snippet here that causes the error.
-
 ```
 
 This way of formatting is not required however it is heavily encouraged and can help people to be able to help you faster and more efficiently.
@@ -40,18 +39,22 @@ For more information visit [MarkdownGuide](https://www.markdownguide.org/basic-s
 
 - Don't say hello
   - I've seen so many users on Discord and other platforms say
+  
   ```
     - Hello! Can you help me with my problem?
     - Yeah.
     - The problem is, ... blah blah blah
   ```
+  
   This is inefficient and time wasting, since when a person responds they'll have to wait for you to type out your problem.
 
   - Instead, you can do this:
+  
   ```
     - Hello! I'm currently facing this problem in which .. blah blah blah
     - You can do .. blah blah blah
   ```
+  
   - This is much more efficient and better than then the last example.
   - For more information visit [NoHello](https://nohello.net/)
 
